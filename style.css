@@ -65,7 +65,7 @@ h1{
 
 #msg{
     font-size: 10vmin;
-    color: green;
+    color: rgb(255, 255, 255);
     font-weight: bold;
 }
 
